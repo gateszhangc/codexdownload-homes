@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codexdownload.homes/sitemap.xml
